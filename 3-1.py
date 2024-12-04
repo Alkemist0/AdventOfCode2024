@@ -1,5 +1,5 @@
 import re
-inputText = open('3-input.txt', 'r').read()
+inputText = open('03-input.txt', 'r').read()
 
 finalMuliplication = 0
 

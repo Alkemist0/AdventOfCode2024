@@ -1,4 +1,4 @@
-inputText = open('2-input.txt', 'r')
+inputText = open('02-input.txt', 'r')
 
 safeReports = 0
 

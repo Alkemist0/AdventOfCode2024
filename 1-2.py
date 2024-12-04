@@ -1,4 +1,4 @@
-inputText = open('1-input.txt', 'r')
+inputText = open('01-input.txt', 'r')
 
 list1 = []
 list2 = []
