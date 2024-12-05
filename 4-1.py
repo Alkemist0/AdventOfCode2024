@@ -24,5 +24,4 @@ for i in range(len(inputText)):
         if(inputText[i - 142] == 'M' and inputText[i - 284] == 'A' and inputText[i - 426] == 'S'): xmasCount += 1
         if(inputText[i - 140] == 'M' and inputText[i - 280] == 'A' and inputText[i - 420] == 'S'): xmasCount += 1
 
-
 print(xmasCount)
