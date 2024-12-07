@@ -11,3 +11,7 @@ My solutions written in Python. These are made to work specifically with the for
 Specific notes about the puzzles after I've solved them.
 
 - Day 4 part 2 took me 8 tries because I missed the fact the pattern could be rotated 90°, earlier in the instructions it looked like it had to be 180°.
+
+# Update
+
+As of day 6, have decided to stop doing the challenges. I don't currently have the time to dedicate to solving them. I will continue to use this repo for future years' challenges, if I decide to do them.
